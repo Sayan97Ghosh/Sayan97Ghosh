@@ -9,28 +9,24 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan97ghosh" alt="sayan97ghosh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 - 🔭 I’m currently working on [Todo_List](https://github.com/masai-course/sayan_fw20_0977/commit/97403737b96c925f35da0d649b584e1927825412)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Eccomerce Websites**
+- 👯 I’m looking to collaborate on **E-commerce Websites**
 
 - 💬 Ask me about **react,javaScript,**
 
-- 📫 How to reach me **sayanghosh97x@gmail.com**
+- 📫 How to reach me 👉 **sayanghosh97x@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/masai-course/sayan_fw20_0977/commit/97403737b96c925f35da0d649b584e1927825412](https://github.com/masai-course/sayan_fw20_0977/commit/97403737b96c925f35da0d649b584e1927825412)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sayan_ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sayan_ghosh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-ghosh-8a09ab246?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-ghosh-8a09ab246?originalsubdomain=in" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=64301e39-d985-42af-abe8-89add9a54d92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=64301e39-d985-42af-abe8-89add9a54d92" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sayanghosh97x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sayanghosh97x" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sayanghosh97x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sayanghosh97x/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sayanghxsef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sayanghxsef/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/sayan-ghosh-8a09ab246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-ghosh-8a09ab246?originalsubdomain=in" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
