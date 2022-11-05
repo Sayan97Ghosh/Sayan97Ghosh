@@ -21,7 +21,7 @@
 
 - 📫 How to reach me 👉 **sayanghosh97x@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences 👉 https://sayan97ghosh.github.io/
 
 <h3 align="left">Connect with me:</h3>
 
