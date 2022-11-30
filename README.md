@@ -1,39 +1,107 @@
+# Sayan
+<!--[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+<div width="60%">
+ <div align=center>
+        <img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Sayan+Ghosh+%F0%9F%91%8B;Full+stack+Developer;Problem+Solver;Interested+In+Learning" alt="Headline" />
+    </div>
+</div>
 
-![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
+ <div align="left"> <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="arun_jawlia" /> </div>
+<h2>🚀 About Me</h2>
+<div >
+  <div width="40%">
+  I am a full-stack web developer specialized in MERN stack. Keen to create new and innovative websites by showcasing my skills. A highly motivated and talended developer who develops website to showcase my skills.
+  </div>
+ 
+ <ul>
+            <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet at Masai.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Learning new things everyday .</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://sayan97ghosh.github.io/">LINK TO Portfolio</a>.</li>
+            <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || ExpressJs || MongoDb || NodeJs </li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I Love Codeing(💻), Traveling(🌍) .</li>
+        </ul>
+</div>
 
-<h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan97ghosh&label=Profile%20views&color=0e75b6&style=flat-square" alt="sayan97ghosh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan97ghosh" alt="sayan97ghosh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<h2> 🤝 Connect with me:</h2>
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://sayan97ghosh.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-ghosh-8a09ab246/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanghosh97x@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918145927411)
 
-- 🔭 I’m currently working on [Todo_List](https://github.com/masai-course/sayan_fw20_0977/commit/97403737b96c925f35da0d649b584e1927825412)
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking to collaborate on **E-commerce Websites**
-
-- 💬 Ask me about **react,javaScript,**
-
-- 📫 How to reach me 👉 **sayanghosh97x@gmail.com**
-
-- 📄 Know about my experiences 👉 https://sayan97ghosh.github.io/
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://www.linkedin.com/in/sayan-ghosh-8a09ab246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-ghosh-8a09ab246?originalsubdomain=in" height="30" width="40" /></a>
-
+   <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
+<p align="left">
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:top; margin:4px" >
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" style="vertical-align:top; margin:4px">
+  <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" style="vertical-align:top; margin:4px">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan97ghosh&show_icons=true&locale=en&layout=compact" alt="sayan97ghosh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan97ghosh&show_icons=true&locale=en" alt="sayan97ghosh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan97ghosh&" alt="sayan97ghosh" /></p>
+
+<h2>💻 Workspace</h2>
+
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sayan97ghosh.github.io/)
+
+
+
+<h2> 🔝 Most used languages</h2>
+
+ <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan97Ghosh&layout=compact" />
+
+
+<h2 align="center">📊 My Github Stats<h2>
+
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan97Ghosh&theme=dark" alt="arun" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sayan97Ghosh&show_icons=true&theme=dark" height="255px" width="47%"/>
+<div>
+</br>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sayan-ghosh-8a09ab246/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
+
+<div>
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Sayan97Ghosh"><img alt="Sayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan97Ghosh&custom_title=Sayan's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</div>
+
+
+<div>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/Sayan97Ghosh/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sayan97Ghosh&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+</div>
+
+
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+  
