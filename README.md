@@ -19,7 +19,7 @@
  <ul>
             <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet at Masai.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things everyday .</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://sayan97ghosh.github.io/">LINK TO Portfolio</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://sayan97ghosh.github.io/myportfolio/"target="_blank">LINK TO Portfolio</a>.</li>
             <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || ExpressJs || MongoDb || NodeJs </li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I Love Codeing(💻), Traveling(🌍) .</li>
@@ -31,7 +31,7 @@
 
 <h2> 🤝 Connect with me:</h2>
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://sayan97ghosh.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://sayan97ghosh.github.io/myportfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-ghosh-8a09ab246/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanghosh97x@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918145927411)
@@ -56,7 +56,7 @@
 
 <h2>💻 Workspace</h2>
 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sayan97ghosh.github.io/)
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sayan97ghosh.github.io/myportfolio/)
 
 
 
