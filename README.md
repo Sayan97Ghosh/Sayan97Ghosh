@@ -1,107 +1,118 @@
-# Sayan
-<!--[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
-<div width="60%">
- <div align=center>
-        <img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends+I'm+Sayan+Ghosh+%F0%9F%91%8B;Full+stack+Developer;Problem+Solver;Interested+In+Learning" alt="Headline" />
-    </div>
+# Sayan Ghosh
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://sayan97ghosh.github.io/myportfolio/)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+friends,+I'm+Sayan+Ghosh+%F0%9F%91%8B;Full+stack+Engineer;AI+and+Web+Developer;Problem+Solver;Always+Learning+New+Things!" alt="Headline" />
 </div>
 
- <div align="left"> <img src="https://komarev.com/ghpvc/?username=Arun-Jawlia&label=Profile%20views&color=0e75b6&style=flat" alt="arun_jawlia" /> </div>
-<h2>🚀 About Me</h2>
-<div >
-  <div width="40%">
-  I am a full-stack web developer specialized in MERN stack. Keen to create new and innovative websites by showcasing my skills. A highly motivated and talended developer who develops website to showcase my skills.
-  </div>
- 
- <ul>
-            <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet at Masai.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Learning new things everyday .</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://sayan97ghosh.github.io/myportfolio/"target="_blank">LINK TO Portfolio</a>.</li>
-            <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || ExpressJs || MongoDb || NodeJs </li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I Love Codeing(💻), Traveling(🌍) .</li>
-        </ul>
+---
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sayan97Ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="Sayan Ghosh" />
 </div>
 
+## 🚀 About Me
 
+I'm a passionate **Full Stack Engineer** (MERN + Java + LangChain + AI tools) with 2+ years of experience developing scalable, AI-driven and user-centric products.
 
+- 🔭 Built AI-powered chatbot for **Skyscape** using LangChain, Flask, MongoDB, React & AWS  
+- 🔧 Enhanced **Bluestar MTA portal** using React, Redux-Saga & Spring Boot  
+- 📊 Created custom Chrome extensions to automate data scraping and integrate with Looker Studio  
+- 🧠 Always learning—currently focused on **AI agent orchestration**, **prompt engineering**, and **scalable system design**
 
-<h2> 🤝 Connect with me:</h2>
- 
+---
+
+## 🎯 What I'm Focusing On
+
+- 🤖 Building AI-driven tools (LangChain, Gemini LLM)  
+- 🧠 Improving at Backend (Spring Boot, Node.js, Docker, PostgreSQL)  
+- 🔍 Learning prompt engineering and scalable system architecture  
+- 💼 Open to full-stack or AI engineering roles — [Portfolio](https://sayan97ghosh.github.io/myportfolio/)
+
+---
+
+## 🧑‍💻 Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `Java` `Python` `SQL` `NoSQL` `Bash`
+
+**Frontend**  
+`ReactJS` `Redux` `Redux-Saga` `HTML5` `CSS3` `SCSS` `Vite`
+
+**Backend & Tools**  
+`NodeJS` `ExpressJS` `Spring Boot` `LangChain` `REST APIs` `Redis` `PostgreSQL` `MongoDB` `MySQL` `Docker` `CI/CD (GitHub Actions)`
+
+**Dev Tools**  
+`Git` `VS Code` `Chrome DevTools` `Postman`
+
+**Cloud & Analytics**  
+`AWS (EC2, S3, Cognito)` `GCP (BigQuery, Google Analytics)` `Looker Studio`
+
+---
+
+## 📈 GitHub Stats
+
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan97Ghosh&theme=dark" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sayan97Ghosh&show_icons=true&theme=dark" height="255px" width="47%"/>
+</div>
+<br/><br/><br/><br/><br/><br/><br/>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayan97Ghosh&theme=radical&margin-h=15&margin-w=5&no-bg=true" />
+</div>
+
+---
+
+## 💼 Projects
+
+- 🔍 [**Mini Agent Forge**](https://github.com/Sayan97Ghosh/mini-agent-forge)  
+  AI-based prompt router using **Gemini LLM**, **Redis**, **PostgreSQL**, **Node.js**, and **React**  
+  ⏱ Achieved sub-second response with intelligent cache keying  
+  📦 Dockerized deployment, modular architecture
+
+---
+
+## 📫 Let's Connect
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://sayan97ghosh.github.io/myportfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-ghosh-8a09ab246/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanghosh97x@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918145927411)
 
-   <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
-<p align="left">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="vertical-align:top; margin:4px" >
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" style="vertical-align:top; margin:4px">
-  <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" style="vertical-align:top; margin:4px">
-</p>
+---
 
-
-
-
-
-<h2>💻 Workspace</h2>
-
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sayan97ghosh.github.io/myportfolio/)
-
-
-
-<h2> 🔝 Most used languages</h2>
-
- <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan97Ghosh&layout=compact" />
-
-
-<h2 align="center">📊 My Github Stats<h2>
-
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan97Ghosh&theme=dark" alt="arun" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sayan97Ghosh&show_icons=true&theme=dark" height="255px" width="47%"/>
-<div>
-</br>
-
+## 🔥 Contribution Graph
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sayan-ghosh-8a09ab246/"> 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
-<div>
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Sayan97Ghosh"><img alt="Sayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan97Ghosh&custom_title=Sayan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan97Ghosh&theme=react-dark" alt="activity graph"/>
 </div>
 
 
-<div>
+---
+
+## 📚 Certifications
+
+- ✅ Full Stack Web Developer – NSDC  
+- 📘 ChatGPT Prompt Engineering – DeepLearning.AI  
+- 🤖 Generative AI for Everyone – DeepLearning.AI  
+- ☕ Spring Boot 3 (Udemy)
+
+---
+
+## 💻 Workspace
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sayan97ghosh.github.io/myportfolio/)
+[![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+
+---
+
+<h1 align='center'>⚡️<i>Stay curious, keep building!</i>⚡️</h1>
 <p align="center">
-<div align=center>
-  <a href="https://github.com/Sayan97Ghosh/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Sayan97Ghosh&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-</div>
-
-
-
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-  
